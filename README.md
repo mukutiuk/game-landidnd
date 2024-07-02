@@ -1,7 +1,7 @@
   - [DEMO LINK](https://mukutiuk.github.io/game-landidnd/)
-    [Github] (https://github.com/mukutiuk)
+    [Github](https://github.com/mukutiuk)
 
-    The landing page is designed and developed using JavaScript, HTML5, CSS3, SCSS, and SASS technologies,
+    The landing page is designed and developed using **JavaScript, HTML5, CSS3, SCSS, and SASS** technologies,
 
     The game field is a 4 x 4 grid where each cell can be empty or contain a power of 2 starting from 2 (2, 4, 8, ..., 2048). Use the keyboard arrows to move the cells in your desired direction.
 
